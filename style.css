@@ -1,0 +1,58 @@
+body
+{
+	background-image: url(../image/abstract-stylish-blue-wave-vector.jpg);
+	background-repeat: no-repeat;
+	background-size: 100% 700px;
+}
+.simple-form
+{
+	text-align: center;
+	margin: 100px 10px;
+}
+#registration
+{
+	width: 70%;
+	background-color: #051011;
+	opacity: 0.5;
+	padding: 50px 0px;
+	border-radius: 50px;
+	border-color: #051011;
+}
+#button
+{
+	width: 270px;
+	padding: 10px;
+	border-radius: 10px;
+}
+#ph1
+{
+	width: 65px;
+	padding: 10px;
+	border-radius: 10px;
+}
+#ph2
+{
+	width: 205px;
+	padding: 10px;
+	border-radius: 10px;
+}
+#rd
+{
+	font-size:25px;
+}
+#but{
+	width: 270px;
+	padding: 8px;
+	border-radius: 10px;
+	font-size: 18px;
+}
+#butt{
+	font-size:25px;
+	border-radius: 10px;
+}
+#baba
+{
+	font-size: 22px;
+	font-style: bold, italic;
+}
+	
